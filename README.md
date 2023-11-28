@@ -1,7 +1,7 @@
   
 # 🌐 Portföy Websitesi
 
-https://github.com/beyznur/PersonalPortfolio/assets/111892780/cf548a40-fdec-4d2e-a3d1-554399c1cdff
+https://github.com/beyznur/PersonalPortfolio/assets/111892780/101dab2e-8368-478e-8b91-fb445044e805
   
 Açık kaynak kodlu bu proje, 3 boyutlu animasyonlar kullanılarak geliştirilen bir portföy websitesini içermektedir. 
 
