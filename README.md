@@ -1,8 +1,29 @@
-# React + Vite
+  
+# 🌐 Portföy Websitesi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://github.com/beyznur/PersonalPortfolio/assets/111892780/cf548a40-fdec-4d2e-a3d1-554399c1cdff
+  
+Açık kaynak kodlu bu proje, 3 boyutlu animasyonlar kullanılarak geliştirilen bir portföy websitesini içermektedir. 
 
-Currently, two official plugins are available:
+## 🚀 Proje Tanıtımı
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bu portföy websitesi, yaptığınız çalışmaları sergilemek ve kişisel kimliğinizi dijital ortamda öne çıkarmak için tasarlanmıştır. Modern tasarım prensipleri ve görsel efektlerle zenginleştirilmiş, kullanıcı dostu bir arayüz sunar.
+
+## 🌟 Özellikler
+- **React ve Tailwind:** Responsive tasarım ilkeleri entegre edilerek modern ve esnek bir kullanıcı arayüzü oluşturuldu.
+- **Three.js:** Görsel efektler için @react-three/fiber ve @react-three/drei paketleri kullanıldı.
+- **Navbar Gezintisi:** react-scroll kütüphanesi, sayfa içinde gezinimi kolaylaştırmak ve kullanıcı deneyimini artırmak için tercih edildi.
+- **Animasyonlar:** react-awesome-reveal ve framer-motion kütüphaneleri kullanılarak sayfa üzerinde çeşitli animasyonlar eklenmiştir.
+- **İletişim:** @emailjs/browser kütüphanesi entegre edilerek, iletişim formu aracılığıyla e-posta gönderimi sağlamak amacıyla projeye dahil edildi.
+
+## 💻 Kullanılan Teknolojiler
+- React
+- Tailwind
+- @react-three/fiber
+- @react-three/drei
+- react-scroll
+- react-awesome-reveal
+- framer-motion
+- @emailjs/browser
+
+
