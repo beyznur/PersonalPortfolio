@@ -1,0 +1,17 @@
+import javascript from "./technology/javascript.png"
+import html from "./technology/html.png"
+import css from "./technology/css.png"
+import redux from "./technology/redux.png"
+import mongodb from "./technology/mongodb.png"
+import scss from "./technology/scss.png"
+import reactjs from "./technology/reactjs.jpg"
+import tailwind from "./technology/tailwind.png"
+import threejs from "./technology/threejs.svg"
+import trendyol from "./project/trendyol.png"
+import reminder from "./project/reminder.png"
+import weather from "./project/weather.png"
+import close from "./close.svg"
+import menu from "./menu.svg"
+import photo from "./photo.png"
+
+export {javascript,html,css,redux,mongodb,scss, reactjs,tailwind,threejs,trendyol,reminder,weather,close,menu,photo}
